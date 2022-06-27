@@ -1,0 +1,21 @@
+{
+  "name": "learn-patterns",
+  "version": "1.0.0",
+  "description": "学习 web 应用中的设计模式",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jojo1900/learn-patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jojo1900/learn-patterns/issues"
+  },
+  "homepage": "https://github.com/jojo1900/learn-patterns#readme"
+}
